@@ -1,6 +1,8 @@
 # tiny-ai-qa-bot
 A tiny AI-powered Q&amp;A bot built with Python, OpenAI, and Streamlit, featuring real-time conversation memory.
 
+
+
 🤖 Tiny AI Q&A Bot 
 This repository contains my submission for the internship assignment, which focuses on building a simple, resourceful, and well-documented AI-powered application.
 
