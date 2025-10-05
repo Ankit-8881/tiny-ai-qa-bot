@@ -55,10 +55,12 @@ Streamlit's st.write_stream() function is used to display the AI's response toke
 
 **CONCLUSION :**
 
-The application is technically complete and correctly implements all features, including the Streamlit UI (Stretch Goal) and Graceful Error Handling. The application immediately encountered a 429: insufficient_quota error upon calling the OpenAI API. This confirms the code's successful connection and execution of the API logic. While the quota was unexpectedly exhausted, the application demonstrated robustness by successfully catching and displaying this critical external failure to the user."
+The application is technically complete and correctly implements all features, including the Streamlit UI (Stretch Goal) and Graceful Error Handling. The application immediately encountered a "_429: insufficient_quota_" error upon calling the OpenAI API. This confirms the code's successful connection and execution of the API logic. While the quota was unexpectedly exhausted, the application demonstrated robustness by successfully catching and displaying this critical external failure to the user."
 
 
 
 Execute the App:
+
 streamlit run app.py
+
 View: The application will automatically open in your web browser.
